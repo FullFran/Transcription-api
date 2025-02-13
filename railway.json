@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "GROQ_API_KEY": "replace_with_your_api_key"
+    }
+  },
+  "deploy": {
+    "startCommand": "uvicorn main:app --host 0.0.0.0 --port 8000"
+  }
+}

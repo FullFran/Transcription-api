@@ -31,6 +31,52 @@ This project is built with **cutting-edge AI and backend technologies** to ensur
 
 ---
 
+# 🎤 AI-Powered Audio Transcription API  
+
+## 🚀 Why This Project Matters  
+
+In today's fast-paced world, **accurate audio transcription** is crucial. Whether you're recording **meetings, interviews, calls, or lectures**, converting speech to text **saves time and enhances productivity**.  
+
+This project goes beyond simple transcription: **once audio is converted into text, AI models can extract insights, generate summaries, and automate workflows**—a game-changer for businesses and researchers.  
+
+With this API, you can **easily integrate real-time transcription into your applications** using **FastAPI, Whisper (via Groq API), and Docker**.  
+
+---
+
+## 🛠️ **Technologies Used**  
+
+This project is built with **cutting-edge AI and backend technologies** to ensure speed, accuracy, and scalability:  
+
+- **FastAPI** – A high-performance web framework for APIs.  
+- **Whisper (via Groq API)** – OpenAI's powerful speech-to-text model.  
+- **Docker** – To containerize the application for easy deployment.  
+- **Python Logging** – Real-time logs for tracking the transcription process.  
+
+---
+
+## 🎯 **Features**  
+
+✅ **Real-time transcription** – Upload an audio file and get a transcript instantly.  
+✅ **Handles large files** – Automatically splits long recordings into smaller chunks.  
+✅ **Error handling & logging** – Tracks progress with real-time logs.  
+✅ **Containerized with Docker** – Easily deploy it anywhere.  
+✅ **Built-in AI compatibility** – Use the transcript for sentiment analysis, summarization, or NLP tasks.  
+
+---
+
+## 🔑 **Setup: Add Your Groq API Key**  
+
+Before running the project, you need to **set up your Groq API Key**.  
+
+1. **Create a `.env` file in the project root directory**  
+2. **Add your Groq API Key inside**:
+
+```ini
+API_KEY=your_groq_api_key_here
+```
+
+🔹 Don't have a Groq API Key? Get one from Groq Console.
+
 ## 🏗️ **How to Set Up the API**  
 
 ### **1️⃣ Clone this Repository**  

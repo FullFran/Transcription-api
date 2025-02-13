@@ -120,6 +120,8 @@ docker run -p 8000:8000 transcriptor-api
 
 The API will be live at **http://localhost:8000** 🚀  
 
+Now the API is running at http://localhost:8000/docs, where you can test it with a user-friendly interface.
+
 ---
 
 ## 🔥 **Using the API**  

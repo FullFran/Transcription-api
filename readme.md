@@ -72,7 +72,7 @@ Before running the project, you need to **set up your Groq API Key**.
 2. **Add your Groq API Key inside**:
 
 ```ini
-API_KEY=your_groq_api_key_here
+GROQ_API_KEY=your_groq_api_key_here
 ```
 
 🔹 Don't have a Groq API Key? Get one from Groq Console.

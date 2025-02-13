@@ -64,6 +64,8 @@ This project is built with **cutting-edge AI and backend technologies** to ensur
 
 ---
 
+You can deploy it in railway with this template: [RailwayTemplate](https://railway.com/template/_6c85G?referralCode=-B12jv)
+
 ## 🔑 **Setup: Add Your Groq API Key**  
 
 Before running the project, you need to **set up your Groq API Key**.  
